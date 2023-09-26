@@ -1,0 +1,3 @@
+La version de node utilisé dans ce mini projet est la version 18 prescisement node 18.16.0
+La version de npm utilisé ici est la version 9 prescisement mpm 9.5.1
+La version de nedb utilisé ici est la version 1.8.0
